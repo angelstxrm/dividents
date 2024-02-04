@@ -1,4 +1,3 @@
-# dividents [ DJANGO REST FRAMEWORK ]
+# dividents [ DJANGO REST FRAMEWORK first exp. ]
 Система авторизации, регистрации, восстановления пароля через почту, и выход из системы.
- no commit ;)
 requirements.txt в div
